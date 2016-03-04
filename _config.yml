@@ -1,0 +1,28 @@
+name: We-Consent
+favicon: null
+layout_spectrum: 0.6184894635807723
+typography_spectrum: 0.6522359475493431
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2191980704665184
+  lightness: 0.48650857247412205
+  saturation: 0.8020082907751203
+  rhythmicContrast: 0.11732981842942536
+purpose: []
