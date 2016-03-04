@@ -2,6 +2,7 @@ name: We-Consent
 favicon: null
 layout_spectrum: 0.6184894635807723
 typography_spectrum: 0.6522359475493431
+title: Consent as in Affirmative Consent
 cta:
   domain: null
   bucket: null
